@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Beaconfire\\Personal Project\\.NET 7 Shopping App MVC\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Beaconfire\\Personal Project\\.NET 7 Shopping App MVC\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Beaconfire\\Personal Project\\.NET 7 Shopping App MVC\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Beaconfire\\Personal Project\\.NET 7 Shopping App MVC\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Beaconfire\\Personal Project\\.NET 7 Shopping App MVC\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\TheCallOfTheWild.jpg",
+      "PackagePath": "staticwebassets\\images\\TheCallOfTheWild.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
